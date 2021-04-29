@@ -9,6 +9,8 @@ for i in s:
         k+= 'A'
     elif i == 'A':
         k+= 'T'
+    else: 
+        print("virhe")
 
 k= k[::-1]
 print (k)
