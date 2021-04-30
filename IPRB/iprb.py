@@ -1,4 +1,4 @@
-from itertools import combinations, permutations 
+    from itertools import combinations, permutations 
 
 
 k = 24
