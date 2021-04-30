@@ -4,6 +4,7 @@ n = 7
 alkiot = []
 for i in range(1, n+1):
     alkiot.append(i)
+    
 
 
 permutaatiot = permutations(alkiot)
